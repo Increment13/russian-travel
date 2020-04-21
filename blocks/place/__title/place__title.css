@@ -1,0 +1,9 @@
+.place__title{
+    max-width: 100%;
+    font-size: 4.5em;
+    line-height: 106%;
+    font-weight: 900;
+    margin: 0;
+    align-self: end;
+    justify-self: start;
+}

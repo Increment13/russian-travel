@@ -1,0 +1,11 @@
+.cover__subtitle{
+    position: absolute;
+    top: calc((100% - 250px)/2 + 184px);
+    left: calc((100% - 360px)/2);
+
+    width: 360px;
+    font-size: 1.125em;
+    line-height: 122%;
+    text-align: center;
+    z-index: 1;
+}

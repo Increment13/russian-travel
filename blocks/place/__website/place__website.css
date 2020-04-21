@@ -1,0 +1,9 @@
+.place__website{
+    max-width: 100%;
+    object-fit: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-self: end;
+    justify-self: start;
+}
