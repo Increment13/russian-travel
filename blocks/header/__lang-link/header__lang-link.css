@@ -5,3 +5,18 @@ color: white;
 text-decoration: none;
 margin-left: 18px;
 }
+
+.header__lang-link:hover{
+    animation: link-low-cover 0.5s ease-out forwards;
+}
+
+
+ @media screen and (max-width: 320px) {
+    .header__lang-link{
+        font-size: 1.125em;
+        line-height: 133%;
+        }
+
+ }
+
+ 

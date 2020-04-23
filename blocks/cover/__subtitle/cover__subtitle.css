@@ -1,5 +1,6 @@
 .cover__subtitle{
     position: absolute;
+    color: white;
     top: calc((100% - 250px)/2 + 184px);
     left: calc((100% - 360px)/2);
 
@@ -9,3 +10,14 @@
     text-align: center;
     z-index: 1;
 }
+
+@media screen and (max-width: 760px) {
+    .cover__subtitle{
+
+        top: calc((100% - 132px)/2 + 86px);
+        left: calc((100% - 288px)/2);
+        font-size: 0.875em;
+        max-width: 288px;
+       
+    }
+ }

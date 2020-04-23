@@ -4,3 +4,12 @@ line-height: 167%;
 margin-bottom: 16px;
 margin-top: 0;
 }
+
+@media screen and (max-width: 1024px) {
+   .place__text{
+       font-size: 1em;
+       line-height: 162%;
+   }
+}
+
+

@@ -1,0 +1,20 @@
+@keyframes link-low-cover {
+    0% {
+      opacity: 1;
+  }
+  100% {
+    opacity: 0.8;
+  }
+  }
+
+ 
+  @keyframes link-cover {
+    0% {
+      opacity: 1;
+  }
+  100% {
+    opacity: 0.3;
+  }
+  }
+
+ 

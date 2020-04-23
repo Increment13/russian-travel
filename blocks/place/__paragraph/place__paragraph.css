@@ -1,3 +1,11 @@
 .place__paragraph{
     max-width: 100%;
 }
+
+
+@media screen and (max-width: 700px) {
+    .place__paragraph{
+        margin-left: 5%;
+        margin-right: 5%;
+    }
+ }
