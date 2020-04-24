@@ -1,12 +1,12 @@
-.footer_copyrught{
-    font-size: 0.875px;
+.footer__copyright{
+    font-size: 0.875em;
     line-height: 114%;
 }
 
 
 
 @media screen and (max-width: 760px) {
-    .footer_copyrught{
+    .footer__copyright{
         line-height: 100%;
         }    
  }

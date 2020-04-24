@@ -12,6 +12,7 @@
     grid-template-columns: minmax(200px,490px) minmax(200px,490px);
     grid-template-rows: auto;
     justify-content: start;
+    
     margin-bottom: 80px;
 }
 
